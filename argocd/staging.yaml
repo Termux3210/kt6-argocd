@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: __REPO_URL__
+    repoURL: https://github.com/Termux3210/kt6-argocd.git
     targetRevision: main
     path: chart
     helm:
